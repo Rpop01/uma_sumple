@@ -1,3 +1,2 @@
-# uma_sumple
+# 上のsampleファイル見れる？
 umano AI no sample
-上のsampleファイル見れる？
